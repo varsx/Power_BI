@@ -1,6 +1,0 @@
-echo "# Test">>README.md
-git init
-git add README.md
-git commit -m "Power_BI"
-git remote add origin https://github.com/varsx/Test.git
-git push -u origin master
